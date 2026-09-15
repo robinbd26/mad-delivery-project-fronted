@@ -1,2 +1,3 @@
 # mad-delivery-project-fronted
-html, css, JavaScript 
+my project name is mad-delivery-project-fronted
+ and using  html, CSS, JavaScript 
